@@ -1,0 +1,11 @@
+C:\c# basic\BaiTap$\BaiTap$\bin\Debug\BaiTap$.exe.config
+C:\c# basic\BaiTap$\BaiTap$\bin\Debug\BaiTap$.exe
+C:\c# basic\BaiTap$\BaiTap$\bin\Debug\BaiTap$.pdb
+C:\c# basic\BaiTap$\BaiTap$\obj\Debug\BaiTap$.csproj.AssemblyReference.cache
+C:\c# basic\BaiTap$\BaiTap$\obj\Debug\BaiTap_.Form1.resources
+C:\c# basic\BaiTap$\BaiTap$\obj\Debug\BaiTap_.Form2.resources
+C:\c# basic\BaiTap$\BaiTap$\obj\Debug\BaiTap_.Properties.Resources.resources
+C:\c# basic\BaiTap$\BaiTap$\obj\Debug\BaiTap$.csproj.GenerateResource.cache
+C:\c# basic\BaiTap$\BaiTap$\obj\Debug\BaiTap$.csproj.CoreCompileInputs.cache
+C:\c# basic\BaiTap$\BaiTap$\obj\Debug\BaiTap$.exe
+C:\c# basic\BaiTap$\BaiTap$\obj\Debug\BaiTap$.pdb
